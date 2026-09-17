@@ -1,0 +1,6 @@
+{
+  "name": "Extinct Animals Encyclopedia",
+  "description": "An interactive digital encyclopedia exploring Earth's lost species with Wikipedia integration, speech synthesis, and AI-powered multi-lingual translations.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
